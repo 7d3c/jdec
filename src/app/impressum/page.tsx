@@ -35,16 +35,16 @@ export default function Impressum() {
                 <br />
                 Rechtsanwalt
                 <br />
-                [Straße und Hausnummer]
+                Florstädter Str. 22
                 <br />
-                [PLZ] Frankfurt am Main
+                60385 Frankfurt am Main
               </p>
             </section>
 
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-4 text-white">Kontakt</h2>
               <p className="text-gray-400 leading-relaxed">
-                E-Mail: kontakt@decieux.de
+                E-Mail: jens@decieux.de
               </p>
             </section>
 

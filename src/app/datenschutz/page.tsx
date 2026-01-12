@@ -55,12 +55,12 @@ export default function Datenschutz() {
                 <br />
                 Rechtsanwalt
                 <br />
-                [Straße und Hausnummer]
+                Florstädter Str. 22
                 <br />
-                [PLZ] Frankfurt am Main
+                60385 Frankfurt am Main
                 <br />
                 <br />
-                E-Mail: kontakt@decieux.de
+                E-Mail: jens@decieux.de
               </p>
             </section>
 
